@@ -1,4 +1,4 @@
-# Blinkit-Analysis-Project
+# Blinkit Analysis
 
 BUSINESS REQUIREMENT : 
 
