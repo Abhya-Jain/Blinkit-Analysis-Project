@@ -1,50 +1,50 @@
-# Blinkit Analysis
+Blinkit Analysis
 
-BUSINESS REQUIREMENT : 
+Project Overview
+This project involves analyzing Blinkit's sales performance, customer satisfaction, and inventory distribution using Excel. The goal is to uncover key insights and optimization opportunities through various KPIs and visualizations.
 
-To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Excel.
+Business Requirements
 
-KPI's Requirements : 
+Objective:
 
-1. Total Sales: The overall revenue generated from all items sold.
-2. Average Sales: The average revenue per sale.
-3. Number of Items: The total count of different items sold.
-4. Average Rating: The average customer rating for items sold
+Conduct a comprehensive analysis of Blinkit's sales data to identify trends, measure performance, and provide actionable insights for decision-making.
 
+KPIs to Track:
 
-Chart's Requirements : 
+Total Sales: Overall revenue generated from all items sold.
 
-1. Total Sales by Fat Content:
-   
-   Objective: Analyze the impact of fat content on total sales.
-   
-   Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+Average Sales: Average revenue per sale.
 
-2. Total Sales by Item Type:
-   
-   Objective: Identify the performance of different item types in terms of total sales.
+Number of Items: Total count of different items sold.
 
-   Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+Average Rating: Average customer rating for items sold.
 
-3. Fat Content by Outlet for Total Sales:
-   
-   Objective: Compare total sales across different outlets segmented by fat content.
+Analysis & Visualizations:
 
-   Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+Total Sales by Fat Content:
 
-4. Total Sales by Outlet Establishment:
+Assess how fat content affects total sales and other KPIs (Average Sales, Number of Items, Average Rating).
 
-   Objective: Evaluate how the age or type of outlet establishment influences total sales.
+Total Sales by Item Type:
 
-5. Sales by Outlet Size:
-   
-   Objective: Analyze the correlation between outlet size and total sales.
+Identify performance differences among item types with associated KPI insights.
 
-6. Sales by Outlet Location:
-    
-    Objective: Assess the geographic distribution of sales across different locations.
+Fat Content by Outlet for Total Sales:
 
-7. All Metrics by Outlet Type:
-    
-    Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.
+Compare total sales across outlets segmented by fat content, including other KPIs.
 
+Total Sales by Outlet Establishment:
+
+Evaluate sales trends based on outlet age/type.
+
+Sales by Outlet Size:
+
+Analyze correlation between outlet size and total sales.
+
+Sales by Outlet Location:
+
+Assess geographic sales distribution.
+
+All Metrics by Outlet Type:
+
+Comprehensive view of all KPIs broken down by outlet type.
