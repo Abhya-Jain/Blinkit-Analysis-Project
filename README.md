@@ -1,4 +1,5 @@
-Blinkit Analysis
+Blinkit-Sales-Analysis-Excel 
+Excel-driven sales and customer insights analysis using formulas, pivot tables, and charts.
 
 Project Overview
 This project involves analyzing Blinkit's sales performance, customer satisfaction, and inventory distribution using Excel. The goal is to uncover key insights and optimization opportunities through various KPIs and visualizations.
